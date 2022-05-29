@@ -7,17 +7,18 @@
 ## Oii, eu sou o Samuel 
 
 <h3>Sobre mim</h3>
-- 🔭 Hoje trabalho com redes e suporte ao usuário <br>
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4° semestre. <br>
-- 🎯 Interesse: HTML, CSS e Java.
+- 🔭 Hoje sou estagiário em desenvolvimento de software <br>
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no 5° período. <br>
+- 🎯 Interesse: HTML, CSS, Java e C#.
 
 ##
 
-<h3>Minhas skills 😃</h3>
+<h3>Minhas Skills 😃</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samuel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samuel-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Samuel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
 ##
