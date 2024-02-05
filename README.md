@@ -1,7 +1,7 @@
 # Hi there 👋
 <hr>
 
-### Olá, meu nome é Samuel. Sou um profissional especializado em desenvolvimento de software e entusiasta no campo da tecnologia. Atualmente, estou cursando pós-graduação em Desenvolvimento Web, dedicando-me continuamente ao aprimoramento das minhas habilidades e conhecimentos.
+#### Olá, meu nome é Samuel. Sou um profissional especializado em desenvolvimento de software e entusiasta no campo da tecnologia. Atualmente, estou cursando pós-graduação em Desenvolvimento Web, dedicando-me continuamente ao aprimoramento das minhas habilidades e conhecimentos.
 
 Tecnologias <br>
 <br>
