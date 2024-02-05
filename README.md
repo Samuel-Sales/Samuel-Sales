@@ -1,10 +1,9 @@
 # Hi there 👋
-<hr>
 
 #### Olá, meu nome é Samuel. Sou um profissional especializado em desenvolvimento de software e entusiasta no campo da tecnologia. Atualmente, estou cursando pós-graduação em Desenvolvimento Web, dedicando-me continuamente ao aprimoramento das minhas habilidades e conhecimentos.
 
-## Tecnologias <br>
-<br>
+<h2>Tecnologias<h2/> <br>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
